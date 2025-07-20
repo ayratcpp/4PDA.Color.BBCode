@@ -1,3 +1,5 @@
 # 4PDA.Color.BBCode
+Маленькая утилита для оформления BBCode в радужных цветах и градиентах для 4PDA.
 
-## <span style="color: #FF0000;">М</span><span style="color: #FF7F00;">а</span><span style="color: #FFFF00;">л</span><span style="color: #00FF00;">е</span><span style="color: #0000FF;">н</span><span style="color: #4B0082;">ь</span><span style="color: #8B00FF;">к</span><span style="color: #FF0000;">ая</span><span> </span><span style="color: #FF7F00;">у</span><span style="color: #FFFF00;">т</span><span style="color: #00FF00;">и</span><span style="color: #0000FF;">л</span><span style="color: #4B0082;">и</span><span style="color: #8B00FF;">т</span><span style="color: #FF0000;">а</span> для оформления BBCode в радужных цветах/градиенте для 4PDA
+> [!NOTE]  
+> *Эта утилита является кроссплатформенной.
